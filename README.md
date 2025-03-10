@@ -1,10 +1,10 @@
 # digital-communications
 Repository for ECE 515: Digital Communications @NC State University
 
-## Course Description
-This repository contains projects focused on digital communication systems, including modulation techniques, channel coding, and communication system analysis.
-
-## Tools
-- MATLAB
-- Signal processing and communication toolboxes
-- Custom scripts for analysis and visualization
+## Final Project
+---
+```
+Simulation of Digital Modulation Schemes:
+- BPSK, 4-PAM, 8-PSK
+- Implement AWGN noise models, custom signal mappers and detectors, and statistical error analysis.
+- Compare simulated vs. theoretical BER across varying SNR values, validating system performance.
